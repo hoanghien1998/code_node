@@ -1,0 +1,22 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "hoang hien",
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words" ],
+	"license": "MIT",
+	"version": "1.2.0",
+	"dependencies": {
+		"package-name": "version",
+		"dependency1": "^major.minor.patch",
+		"express": "^4.14.0",
+		"helmet": "^3.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
